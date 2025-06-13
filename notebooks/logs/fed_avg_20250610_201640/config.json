@@ -1,0 +1,8 @@
+{
+  "model": "Sequential_Dense64",
+  "client_optimizer": "SGDM_lr0.01",
+  "server_optimizer": "SGDM_lr1.0",
+  "num_rounds": 10,
+  "batch_size": 32,
+  "creation_time": "2025-06-10T20:16:40.669459"
+}

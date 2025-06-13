@@ -1,0 +1,109 @@
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4938
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4967
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4948
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Accuracy: 0.8884, Loss: 0.4371
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4342
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Accuracy: 0.8887, Loss: 0.4042
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.4069
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Accuracy: 0.8884, Loss: 0.3871
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3938
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Accuracy: 0.8884, Loss: 0.3771
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3824
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Accuracy: 0.8887, Loss: 0.3700
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4930 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Accuracy: 0.8884, Loss: 0.4361
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4313 - accuracy: 0.8893
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Accuracy: 0.8884, Loss: 0.4029
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.4042 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Accuracy: 0.8884, Loss: 0.3861
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3900 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Accuracy: 0.8884, Loss: 0.3759
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3816 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Accuracy: 0.8884, Loss: 0.3688
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.5094 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Accuracy: 0.8884, Loss: 0.4383
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4315 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Accuracy: 0.8884, Loss: 0.4034
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.4035 - accuracy: 0.8890
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Accuracy: 0.8887, Loss: 0.3849
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3883 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Accuracy: 0.8887, Loss: 0.3746
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3788 - accuracy: 0.8896
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Accuracy: 0.8887, Loss: 0.3662
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4929 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4393, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4365 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4063, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.4084 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.3893, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3942 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3777, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3844 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3695, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4970 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4396, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4362 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4079, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.4103 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.3906, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3949 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3791, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3848 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3708, Acc: 0.8887, Prec: 0.8886, Recall: 1.0000, Spec: 0.0028, F1: 0.9410
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.5033 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.4366, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4283 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.4001, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.4019 - accuracy: 0.8893
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.3826, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3891 - accuracy: 0.8884
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.3732, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3793 - accuracy: 0.8887
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.3662, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Train Loss: 0.4969 - Eval Loss: 0.6660 - Accuracy: 0.8805
+[DP] noise_multiplier=1.0, l2_norm_clip=1.0 used in DP-SGD
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Train Loss: 0.6340 - Eval Loss: 0.7236 - Accuracy: 0.8226
+[DP] noise_multiplier=1.0, l2_norm_clip=1.0 used in DP-SGD
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.7121, Acc: 0.8387, Prec: 0.8937, Recall: 0.9288, Spec: 0.1211, F1: 0.9110
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Train Loss: 0.4662 - Eval Loss: 0.6218 - Accuracy: 0.8858
+[DP] noise_multiplier=1.0, l2_norm_clip=1.0 used in DP-SGD
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.6194, Acc: 0.8868, Prec: 0.8889, Recall: 0.9972, Spec: 0.0085, F1: 0.9399
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Train Loss: 0.5921 - Eval Loss: 0.5805 - Accuracy: 0.8884
+[DP] noise_multiplier=1.0, l2_norm_clip=1.0 used in DP-SGD
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.5763, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Train Loss: 0.3661 - Eval Loss: 0.5547 - Accuracy: 0.8884
+[DP] noise_multiplier=1.0, l2_norm_clip=1.0 used in DP-SGD
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.5530, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Train Loss: 0.2232 - Eval Loss: 0.5405 - Accuracy: 0.8884
+[DP] noise_multiplier=1.0, l2_norm_clip=1.0 used in DP-SGD
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.5412, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Train Loss: 0.5642 - Eval Loss: 0.6858 - Accuracy: 0.8651
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.6918, Acc: 0.8582, Prec: 0.8884, Recall: 0.9611, Spec: 0.0394, F1: 0.9233
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Train Loss: 0.5576 - Eval Loss: 0.6123 - Accuracy: 0.8877
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.6065, Acc: 0.8881, Prec: 0.8883, Recall: 0.9996, Spec: 0.0000, F1: 0.9407
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Train Loss: 0.3214 - Eval Loss: 0.5731 - Accuracy: 0.8884
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.5658, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Train Loss: 0.2418 - Eval Loss: 0.5486 - Accuracy: 0.8884
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.5467, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Train Loss: 0.3714 - Eval Loss: 0.5349 - Accuracy: 0.8884
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.5353, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Train Loss: 0.6603 - Eval Loss: 0.8212 - Accuracy: 0.5947
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 1 - Loss: 0.8089, Acc: 0.6352, Prec: 0.8814, Recall: 0.6811, Spec: 0.2704, F1: 0.7684
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Train Loss: 0.6114 - Eval Loss: 0.6613 - Accuracy: 0.8811
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 2 - Loss: 0.6554, Acc: 0.8824, Prec: 0.8882, Recall: 0.9926, Spec: 0.0056, F1: 0.9375
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Train Loss: 0.5962 - Eval Loss: 0.5979 - Accuracy: 0.8884
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 3 - Loss: 0.5938, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Train Loss: 0.4190 - Eval Loss: 0.5606 - Accuracy: 0.8884
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 4 - Loss: 0.5611, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Train Loss: 0.6170 - Eval Loss: 0.5502 - Accuracy: 0.8884
+[DP+Clipping] DP-SGD applied with noise_multiplier=1.0, l2_norm_clip=1.0; Weight clipping applied with norm=1.0
+[Client: ../../datasets/diabetes/processed_silos/hospital_1.csv] Round 5 - Loss: 0.5474, Acc: 0.8884, Prec: 0.8884, Recall: 1.0000, Spec: 0.0000, F1: 0.9409
