@@ -50,5 +50,7 @@ fl-health/
 
 ## Contributors
 
-- **teslaoruz** (Primary Developer)
+- **Irshad Ahmad Oruzgani** (Primary Developer)
 - **Imanbek Bagan Talgatkyzy** (Head of Practice)
+
+Institution: Al-Farabi Kazakh National University, Faculty of Information Technology
