@@ -52,5 +52,3 @@ fl-health/
 
 - **teslaoruz** (Primary Developer)
 - **Imanbek Bagan Talgatkyzy** (Head of Practice)
-
-Institution: Al-Farabi Kazakh National University, Faculty of Information Technology
